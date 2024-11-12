@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Puddles&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+	background-color: rgba(0, 140, 255, 0.438);
+	font-family: 'sour gummy';
+	color: #333;
+	padding: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+}
+.container{
+	max-width: 500px;
+	background-color: #ffffff;
+	padding: 20px;
+	border-radius: 8px;
+	box-shadow: 2px 3px 2px rgba(0, 119, 255, 0.637);
+	text-align: center;
+}
+button{
+	margin-top: 1px;
+	background-color: #4a90e2;
+	color: white;
+	border: none;
+	border-radius: 12px;
+	cursor: pointer;
+}
+button:hover{
+	background-color: aqua;
+}
+section{
+	background-color: #4a91e256;
+	border-radius: 20px;
+	box-shadow: 2px 3px 2px rgba(0, 119, 255, 0.637);
+	align-items: center;
+	text-align: center;
+	padding: 0px 5px 5px 5px;
+}
+
